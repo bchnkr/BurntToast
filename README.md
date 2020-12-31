@@ -60,6 +60,10 @@ if you using Powershell 6 or later, extract into `$env:userprofile\Documents\Pow
 
 **Please note:** as of v0.5.0, BurntToast no longer works on Windows 8.
 
+- [0.9.0](https://github.com/Windos/BurntToast/releases/download/v0.9.0/BurntToast.zip)
+
+  - Placeholder
+
 - [0.8.5](https://github.com/Windos/BurntToast/releases/download/v0.8.5/BurntToast.zip)
 
   - Actually implement the ability to use a UniqueIdentifier with the Remove-BTNotification function (which was half implemented in 0.8.4)
@@ -113,16 +117,6 @@ if you using Powershell 6 or later, extract into `$env:userprofile\Documents\Pow
   - Add: Ability to force a refresh of cached images via IgnoreCache switch on New-BTImage
 
   - Add: ACTIONABLE NOTIFICATIONS! Exposed via ActivatedAction and DismissedAction parameters on Submit-BTNotification and New-BurntToastNotification
-
-- [v0.7.2](https://github.com/Windos/BurntToast/releases/download/v0.7.2/BurntToast.zip)
-
-  - Fix: Curly Braces when "Reminder" pops up ([#72](https://github.com/Windos/BurntToast/issues/72))
-
-  - Fix: Caching remote gifs are saved based on their remote filename and not overwritten ([#105](https://github.com/Windos/BurntToast/issues/105))
-
-    - Thanks [@KelvinTegelaar](https://github.com/KelvinTegelaar)
-
-  - Fix: BurntToast and .NET 5 ([#101](https://github.com/Windos/BurntToast/issues/101))
 
 - see more in the [Full Change Log](CHANGES.md)
 

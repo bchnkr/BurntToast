@@ -1,5 +1,9 @@
 # Full Change Log
 
+- [0.9.0](https://github.com/Windos/BurntToast/releases/download/v0.9.0/BurntToast.zip)
+
+  - Placeholder
+
 - [0.8.5](https://github.com/Windos/BurntToast/releases/download/v0.8.5/BurntToast.zip)
 
   - Actually implement the ability to use a UniqueIdentifier with the Remove-BTNotification function (which was half implemented in 0.8.4)
